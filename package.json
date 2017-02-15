@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/sonamsdiwate1983/npmPackages/issues"
   },
-  "homepage": "https://github.com/sonamsdiwate1983/npmPackages#readme"
+  "homepage": "https://github.com/sonamsdiwate1983/npmPackages#readme",
+  "devDependencies": {
+    "grunt-sass": "^2.0.0",
+    "node-sass": "^4.5.0",
+    "sass-loader": "^6.0.0",
+    "webpack": "^2.2.1"
+  }
 }
